@@ -9,13 +9,7 @@ body {
   background-size: cover;
 }
 
-@media (max-width:768px) {
-  body {
 
-    background-size: contain;
-
-  }
-}
 
 .calculator-grid {
   margin: 0 auto;
